@@ -4,14 +4,14 @@
 
 ![Audio Converter Pro](https://via.placeholder.com/800x400/FF4444/FFFFFF?text=Audio+Converter+Pro)
 
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/yourusername/audio-converter-pro/releases)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/yourusername/audio-converter-pro/releases)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/avraniel/audio-converter-pro/releases)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/avraniel/audio-converter-pro/releases)
 [![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://aur.archlinux.org/packages/audio-converter-pro)
 [![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 
 **Convert between all major audio formats with ease!**
 
-[Download](https://github.com/yourusername/audio-converter-pro/releases/latest) •
+[Download](https://github.com/avraniel/audio-converter-pro/releases/latest) •
 [Documentation](docs/USER_GUIDE.md) •
 [Report Bug](.github/ISSUE_TEMPLATE/bug_report.md) •
 [Request Feature](.github/ISSUE_TEMPLATE/feature_request.md)
