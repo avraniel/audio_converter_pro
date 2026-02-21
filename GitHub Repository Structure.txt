@@ -1,0 +1,31 @@
+audio-converter-pro/
+├── .github/
+│   ├── workflows/
+│   │   ├── build-windows.yml      # GitHub Actions for Windows
+│   │   ├── build-linux.yml        # GitHub Actions for Linux
+│   │   └── release.yml            # Auto-create releases
+│   └── ISSUE_TEMPLATE/            # Issue templates
+│       ├── bug_report.md
+│       └── feature_request.md
+├── src/
+│   └── audio_converter_pro.py     # Your main script
+├── scripts/
+│   ├── install_windows.ps1        # Windows installer
+│   ├── install_arch.sh             # Arch Linux installer
+│   ├── build_exe.ps1               # Build Windows executable
+│   ├── build_appimage.sh            # Build Linux AppImage
+│   └── build_arch_package.sh        # Build Arch package
+├── docs/
+│   ├── USER_GUIDE.md               # Detailed user guide
+│   ├── DEVELOPER.md                 # Developer documentation
+│   └── SCREENSHOTS/                 # Screenshots folder
+├── tests/
+│   └── test_conversion.py           # Basic tests
+├── .gitignore
+├── LICENSE                          # Choose a license
+├── README.md                         # Main README
+├── CONTRIBUTING.md                    # Contribution guidelines
+├── CHANGELOG.md                       # Version history
+├── requirements.txt                    # Python dependencies
+├── setup.py                            # For pip installation
+└── PKGBUILD                            # For Arch AUR
