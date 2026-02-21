@@ -43,4 +43,4 @@
 # Download and run the installer
 # Or use PowerShell (as Administrator):
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
-irm https://raw.githubusercontent.com/yourusername/audio-converter-pro/main/scripts/install_windows.ps1 | iex
+irm https://raw.githubusercontent.com/avraniel/audio-converter-pro/main/scripts/install_windows.ps1 | iex
