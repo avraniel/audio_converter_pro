@@ -1,5 +1,5 @@
 # Clone repository
-git clone https://github.com/yourusername/audio-converter-pro.git
+git clone https://github.com/avraniel/audio-converter-pro.git
 cd audio-converter-pro
 
 # Create virtual environment
