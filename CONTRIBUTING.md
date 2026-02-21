@@ -13,5 +13,5 @@
 1. Fork the repository
 2. Clone your fork:
    ```bash
-   git clone https://github.com/your-username/audio-converter-pro.git
+   git clone https://github.com/avraniel/audio-converter-pro.git
    cd audio-converter-pro
