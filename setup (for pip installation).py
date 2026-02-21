@@ -11,7 +11,7 @@ setup(
     description="Professional audio converter supporting multiple formats",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/audio-converter-pro",
+    url="https://github.com/avraniel/audio-converter-pro",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
