@@ -6,8 +6,8 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name="audio-converter-pro",
     version="2.0.0",
-    author="Your Name",
-    author_email="your.email@example.com",
+    author="raniel",
+    author_email="avranielàgmail.com",
     description="Professional audio converter supporting multiple formats",
     long_description=long_description,
     long_description_content_type="text/markdown",
